@@ -1,0 +1,14 @@
+[04-Oct-2016 17:05:40 America/New_York] PHP Parse error:  syntax error, unexpected ''image'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/leilgrdx/public_html/project/throne2/application/models/News_model.php on line 29
+[04-Oct-2016 18:32:00 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:32:35 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 16
+[04-Oct-2016 18:33:31 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:34:38 America/New_York] PHP Fatal error:  Cannot redeclare News::index() in /home/leilgrdx/public_html/project/throne2/application/controllers/News.php on line 60
+[04-Oct-2016 18:34:51 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:46:59 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:47:26 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:47:28 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:48:22 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:48:24 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 18:48:26 America/New_York] PHP Fatal error:  Call to undefined function form_open() in /home/leilgrdx/public_html/project/throne2/application/views/news/index.php on line 14
+[04-Oct-2016 19:04:43 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/leilgrdx/public_html/project/throne2/application/models/News_model.php on line 34
+[04-Oct-2016 21:42:24 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/leilgrdx/public_html/project/throne2/application/views/news/view.php on line 3
